@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.webage.Security_Authorization.SecurityAuthorizationApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-26T05:07:52" hostname="ip-172-16-173-30" time="1.454">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.webage.Security_Authorization.SecurityAuthorizationApplicationTests" time="1.454"/>
+  <system-out><![CDATA[05:07:47.959 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.webage.Security_Authorization.SecurityAuthorizationApplicationTests]: SecurityAuthorizationApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+05:07:48.248 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.webage.Security_Authorization.SecurityAuthorizationApplication for test class com.webage.Security_Authorization.SecurityAuthorizationApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.9)
+
+2024-08-26T05:07:49.259Z  INFO 2943354 --- [Security_Authorization] [    Test worker] .S.SecurityAuthorizationApplicationTests : Starting SecurityAuthorizationApplicationTests using Java 17.0.12 with PID 2943354 (started by wasadmin in /home/wasadmin/Desktop/Security_Authorization)
+2024-08-26T05:07:49.269Z  INFO 2943354 --- [Security_Authorization] [    Test worker] .S.SecurityAuthorizationApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-08-26T05:07:52.038Z  INFO 2943354 --- [Security_Authorization] [    Test worker] .S.SecurityAuthorizationApplicationTests : Started SecurityAuthorizationApplicationTests in 3.379 seconds (process running for 5.598)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
